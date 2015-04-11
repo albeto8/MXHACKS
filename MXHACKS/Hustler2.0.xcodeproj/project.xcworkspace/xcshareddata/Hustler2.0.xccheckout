@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>188CD0B0-8A76-4502-82ED-CA95ABA45BFF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hustler2.0</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE820167DC6BA55ECDF1F399F798A8E6B8DEFF64</key>
+		<string>https://github.com/albeto8/MXHACKS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MXHACKS/Hustler2.0.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE820167DC6BA55ECDF1F399F798A8E6B8DEFF64</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/albeto8/MXHACKS</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE820167DC6BA55ECDF1F399F798A8E6B8DEFF64</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE820167DC6BA55ECDF1F399F798A8E6B8DEFF64</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MXHACKS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

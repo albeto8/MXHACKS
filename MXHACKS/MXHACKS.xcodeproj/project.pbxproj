@@ -13,6 +13,32 @@
 		4A10D7A01AD8E30A00C7CB0B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A10D79F1AD8E30A00C7CB0B /* Images.xcassets */; };
 		4A10D7A31AD8E30A00C7CB0B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A10D7A11AD8E30A00C7CB0B /* LaunchScreen.xib */; };
 		4A10D7AF1AD8E30A00C7CB0B /* MXHACKSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A10D7AE1AD8E30A00C7CB0B /* MXHACKSTests.swift */; };
+		BB0626411AD9B1F00031FEB8 /* 1689265_512660492188520_1333736981_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB06260E1AD9B1F00031FEB8 /* 1689265_512660492188520_1333736981_n.jpg */; };
+		BB0626421AD9B1F00031FEB8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0626101AD9B1F00031FEB8 /* AppDelegate.m */; };
+		BB0626431AD9B1F00031FEB8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BB0626111AD9B1F00031FEB8 /* LaunchScreen.xib */; };
+		BB0626441AD9B1F00031FEB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB0626131AD9B1F00031FEB8 /* Main.storyboard */; };
+		BB0626451AD9B1F00031FEB8 /* JWBlurView.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0626171AD9B1F00031FEB8 /* JWBlurView.m */; };
+		BB0626461AD9B1F00031FEB8 /* BEMAnimations.m in Sources */ = {isa = PBXBuildFile; fileRef = BB06261B1AD9B1F00031FEB8 /* BEMAnimations.m */; };
+		BB0626471AD9B1F00031FEB8 /* BEMCircle.m in Sources */ = {isa = PBXBuildFile; fileRef = BB06261D1AD9B1F00031FEB8 /* BEMCircle.m */; };
+		BB0626481AD9B1F00031FEB8 /* BEMLine.m in Sources */ = {isa = PBXBuildFile; fileRef = BB06261F1AD9B1F00031FEB8 /* BEMLine.m */; };
+		BB0626491AD9B1F00031FEB8 /* BEMSimpleLineGraphView.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0626211AD9B1F00031FEB8 /* BEMSimpleLineGraphView.m */; };
+		BB06264A1AD9B1F00031FEB8 /* GraphViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0626231AD9B1F00031FEB8 /* GraphViewController.m */; };
+		BB06264B1AD9B1F00031FEB8 /* NZCircularImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0626251AD9B1F00031FEB8 /* NZCircularImageView.m */; };
+		BB06264C1AD9B1F00031FEB8 /* CodeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0626271AD9B1F00031FEB8 /* CodeViewController.m */; };
+		BB06264D1AD9B1F00031FEB8 /* GraphViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0626291AD9B1F00031FEB8 /* GraphViewController.m */; };
+		BB06264E1AD9B1F00031FEB8 /* Grupo-Modelo-300-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = BB06262A1AD9B1F00031FEB8 /* Grupo-Modelo-300-logo.png */; };
+		BB06264F1AD9B1F00031FEB8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB06262B1AD9B1F00031FEB8 /* Images.xcassets */; };
+		BB0626501AD9B1F00031FEB8 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB06262C1AD9B1F00031FEB8 /* Info.plist */; };
+		BB0626511AD9B1F00031FEB8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BB06262D1AD9B1F00031FEB8 /* main.m */; };
+		BB0626521AD9B1F00031FEB8 /* MyCustomCell1.m in Sources */ = {isa = PBXBuildFile; fileRef = BB06262F1AD9B1F00031FEB8 /* MyCustomCell1.m */; };
+		BB0626531AD9B1F00031FEB8 /* splashBueno@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BB0626311AD9B1F00031FEB8 /* splashBueno@2x.png */; };
+		BB0626541AD9B1F00031FEB8 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0626331AD9B1F00031FEB8 /* SettingsViewController.m */; };
+		BB0626551AD9B1F00031FEB8 /* splashBueno@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BB0626341AD9B1F00031FEB8 /* splashBueno@2x.png */; };
+		BB0626561AD9B1F00031FEB8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0626361AD9B1F00031FEB8 /* ViewController.m */; };
+		BB0626571AD9B1F00031FEB8 /* WalletViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0626381AD9B1F00031FEB8 /* WalletViewController.m */; };
+		BB0626581AD9B1F00031FEB8 /* WalletViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = BB06263A1AD9B1F00031FEB8 /* WalletViewController2.m */; };
+		BB0626591AD9B1F00031FEB8 /* Hustler2_0Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = BB06263F1AD9B1F00031FEB8 /* Hustler2_0Tests.m */; };
+		BB06265A1AD9B1F00031FEB8 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB0626401AD9B1F00031FEB8 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -22,6 +48,20 @@
 			proxyType = 1;
 			remoteGlobalIDString = 4A10D7921AD8E30A00C7CB0B;
 			remoteInfo = MXHACKS;
+		};
+		BB06265D1AD9B1F00031FEB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BB06263B1AD9B1F00031FEB8 /* Hustler2.0.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BB0625B21AD9A4DA0031FEB8;
+			remoteInfo = Hustler2.0;
+		};
+		BB06265F1AD9B1F00031FEB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BB06263B1AD9B1F00031FEB8 /* Hustler2.0.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BB0625CB1AD9A4DB0031FEB8;
+			remoteInfo = Hustler2.0Tests;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -36,6 +76,48 @@
 		4A10D7A81AD8E30A00C7CB0B /* MXHACKSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MXHACKSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A10D7AD1AD8E30A00C7CB0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A10D7AE1AD8E30A00C7CB0B /* MXHACKSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MXHACKSTests.swift; sourceTree = "<group>"; };
+		BB06260E1AD9B1F00031FEB8 /* 1689265_512660492188520_1333736981_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1689265_512660492188520_1333736981_n.jpg; sourceTree = "<group>"; };
+		BB06260F1AD9B1F00031FEB8 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		BB0626101AD9B1F00031FEB8 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		BB0626121AD9B1F00031FEB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		BB0626141AD9B1F00031FEB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BB0626161AD9B1F00031FEB8 /* JWBlurView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JWBlurView.h; sourceTree = "<group>"; };
+		BB0626171AD9B1F00031FEB8 /* JWBlurView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JWBlurView.m; sourceTree = "<group>"; };
+		BB06261A1AD9B1F00031FEB8 /* BEMAnimations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BEMAnimations.h; sourceTree = "<group>"; };
+		BB06261B1AD9B1F00031FEB8 /* BEMAnimations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BEMAnimations.m; sourceTree = "<group>"; };
+		BB06261C1AD9B1F00031FEB8 /* BEMCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BEMCircle.h; sourceTree = "<group>"; };
+		BB06261D1AD9B1F00031FEB8 /* BEMCircle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BEMCircle.m; sourceTree = "<group>"; };
+		BB06261E1AD9B1F00031FEB8 /* BEMLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BEMLine.h; sourceTree = "<group>"; };
+		BB06261F1AD9B1F00031FEB8 /* BEMLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BEMLine.m; sourceTree = "<group>"; };
+		BB0626201AD9B1F00031FEB8 /* BEMSimpleLineGraphView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BEMSimpleLineGraphView.h; sourceTree = "<group>"; };
+		BB0626211AD9B1F00031FEB8 /* BEMSimpleLineGraphView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BEMSimpleLineGraphView.m; sourceTree = "<group>"; };
+		BB0626221AD9B1F00031FEB8 /* GraphViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GraphViewController.h; sourceTree = "<group>"; };
+		BB0626231AD9B1F00031FEB8 /* GraphViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GraphViewController.m; sourceTree = "<group>"; };
+		BB0626241AD9B1F00031FEB8 /* NZCircularImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NZCircularImageView.h; sourceTree = "<group>"; };
+		BB0626251AD9B1F00031FEB8 /* NZCircularImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NZCircularImageView.m; sourceTree = "<group>"; };
+		BB0626261AD9B1F00031FEB8 /* CodeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CodeViewController.h; sourceTree = "<group>"; };
+		BB0626271AD9B1F00031FEB8 /* CodeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CodeViewController.m; sourceTree = "<group>"; };
+		BB0626281AD9B1F00031FEB8 /* GraphViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GraphViewController.h; sourceTree = "<group>"; };
+		BB0626291AD9B1F00031FEB8 /* GraphViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GraphViewController.m; sourceTree = "<group>"; };
+		BB06262A1AD9B1F00031FEB8 /* Grupo-Modelo-300-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Grupo-Modelo-300-logo.png"; sourceTree = "<group>"; };
+		BB06262B1AD9B1F00031FEB8 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		BB06262C1AD9B1F00031FEB8 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB06262D1AD9B1F00031FEB8 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BB06262E1AD9B1F00031FEB8 /* MyCustomCell1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyCustomCell1.h; sourceTree = "<group>"; };
+		BB06262F1AD9B1F00031FEB8 /* MyCustomCell1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyCustomCell1.m; sourceTree = "<group>"; };
+		BB0626311AD9B1F00031FEB8 /* splashBueno@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "splashBueno@2x.png"; sourceTree = "<group>"; };
+		BB0626321AD9B1F00031FEB8 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		BB0626331AD9B1F00031FEB8 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		BB0626341AD9B1F00031FEB8 /* splashBueno@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "splashBueno@2x.png"; sourceTree = "<group>"; };
+		BB0626351AD9B1F00031FEB8 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		BB0626361AD9B1F00031FEB8 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		BB0626371AD9B1F00031FEB8 /* WalletViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WalletViewController.h; sourceTree = "<group>"; };
+		BB0626381AD9B1F00031FEB8 /* WalletViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WalletViewController.m; sourceTree = "<group>"; };
+		BB0626391AD9B1F00031FEB8 /* WalletViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WalletViewController2.h; sourceTree = "<group>"; };
+		BB06263A1AD9B1F00031FEB8 /* WalletViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WalletViewController2.m; sourceTree = "<group>"; };
+		BB06263B1AD9B1F00031FEB8 /* Hustler2.0.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = Hustler2.0.xcodeproj; sourceTree = SOURCE_ROOT; };
+		BB06263F1AD9B1F00031FEB8 /* Hustler2_0Tests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Hustler2_0Tests.m; sourceTree = "<group>"; };
+		BB0626401AD9B1F00031FEB8 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +161,9 @@
 			children = (
 				4A10D7981AD8E30A00C7CB0B /* AppDelegate.swift */,
 				4A10D79A1AD8E30A00C7CB0B /* ViewController.swift */,
+				BB06260D1AD9B1F00031FEB8 /* Hustler2.0 */,
+				BB06263B1AD9B1F00031FEB8 /* Hustler2.0.xcodeproj */,
+				BB06263E1AD9B1F00031FEB8 /* Hustler2.0Tests */,
 				4A10D79C1AD8E30A00C7CB0B /* Main.storyboard */,
 				4A10D79F1AD8E30A00C7CB0B /* Images.xcassets */,
 				4A10D7A11AD8E30A00C7CB0B /* LaunchScreen.xib */,
@@ -111,6 +196,102 @@
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
+		};
+		BB06260D1AD9B1F00031FEB8 /* Hustler2.0 */ = {
+			isa = PBXGroup;
+			children = (
+				BB06260E1AD9B1F00031FEB8 /* 1689265_512660492188520_1333736981_n.jpg */,
+				BB06260F1AD9B1F00031FEB8 /* AppDelegate.h */,
+				BB0626101AD9B1F00031FEB8 /* AppDelegate.m */,
+				BB0626111AD9B1F00031FEB8 /* LaunchScreen.xib */,
+				BB0626131AD9B1F00031FEB8 /* Main.storyboard */,
+				BB0626151AD9B1F00031FEB8 /* cocoa */,
+				BB0626261AD9B1F00031FEB8 /* CodeViewController.h */,
+				BB0626271AD9B1F00031FEB8 /* CodeViewController.m */,
+				BB0626281AD9B1F00031FEB8 /* GraphViewController.h */,
+				BB0626291AD9B1F00031FEB8 /* GraphViewController.m */,
+				BB06262A1AD9B1F00031FEB8 /* Grupo-Modelo-300-logo.png */,
+				BB06262B1AD9B1F00031FEB8 /* Images.xcassets */,
+				BB06262C1AD9B1F00031FEB8 /* Info.plist */,
+				BB06262D1AD9B1F00031FEB8 /* main.m */,
+				BB06262E1AD9B1F00031FEB8 /* MyCustomCell1.h */,
+				BB06262F1AD9B1F00031FEB8 /* MyCustomCell1.m */,
+				BB0626301AD9B1F00031FEB8 /* resources:img */,
+				BB0626321AD9B1F00031FEB8 /* SettingsViewController.h */,
+				BB0626331AD9B1F00031FEB8 /* SettingsViewController.m */,
+				BB0626341AD9B1F00031FEB8 /* splashBueno@2x.png */,
+				BB0626351AD9B1F00031FEB8 /* ViewController.h */,
+				BB0626361AD9B1F00031FEB8 /* ViewController.m */,
+				BB0626371AD9B1F00031FEB8 /* WalletViewController.h */,
+				BB0626381AD9B1F00031FEB8 /* WalletViewController.m */,
+				BB0626391AD9B1F00031FEB8 /* WalletViewController2.h */,
+				BB06263A1AD9B1F00031FEB8 /* WalletViewController2.m */,
+			);
+			path = Hustler2.0;
+			sourceTree = SOURCE_ROOT;
+		};
+		BB0626151AD9B1F00031FEB8 /* cocoa */ = {
+			isa = PBXGroup;
+			children = (
+				BB0626161AD9B1F00031FEB8 /* JWBlurView.h */,
+				BB0626171AD9B1F00031FEB8 /* JWBlurView.m */,
+				BB0626181AD9B1F00031FEB8 /* new */,
+				BB0626241AD9B1F00031FEB8 /* NZCircularImageView.h */,
+				BB0626251AD9B1F00031FEB8 /* NZCircularImageView.m */,
+			);
+			path = cocoa;
+			sourceTree = "<group>";
+		};
+		BB0626181AD9B1F00031FEB8 /* new */ = {
+			isa = PBXGroup;
+			children = (
+				BB0626191AD9B1F00031FEB8 /* Classes */,
+				BB0626221AD9B1F00031FEB8 /* GraphViewController.h */,
+				BB0626231AD9B1F00031FEB8 /* GraphViewController.m */,
+			);
+			path = new;
+			sourceTree = "<group>";
+		};
+		BB0626191AD9B1F00031FEB8 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				BB06261A1AD9B1F00031FEB8 /* BEMAnimations.h */,
+				BB06261B1AD9B1F00031FEB8 /* BEMAnimations.m */,
+				BB06261C1AD9B1F00031FEB8 /* BEMCircle.h */,
+				BB06261D1AD9B1F00031FEB8 /* BEMCircle.m */,
+				BB06261E1AD9B1F00031FEB8 /* BEMLine.h */,
+				BB06261F1AD9B1F00031FEB8 /* BEMLine.m */,
+				BB0626201AD9B1F00031FEB8 /* BEMSimpleLineGraphView.h */,
+				BB0626211AD9B1F00031FEB8 /* BEMSimpleLineGraphView.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		BB0626301AD9B1F00031FEB8 /* resources:img */ = {
+			isa = PBXGroup;
+			children = (
+				BB0626311AD9B1F00031FEB8 /* splashBueno@2x.png */,
+			);
+			path = "resources:img";
+			sourceTree = "<group>";
+		};
+		BB06263C1AD9B1F00031FEB8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BB06265E1AD9B1F00031FEB8 /* Hustler2.0.app */,
+				BB0626601AD9B1F00031FEB8 /* Hustler2.0Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BB06263E1AD9B1F00031FEB8 /* Hustler2.0Tests */ = {
+			isa = PBXGroup;
+			children = (
+				BB06263F1AD9B1F00031FEB8 /* Hustler2_0Tests.m */,
+				BB0626401AD9B1F00031FEB8 /* Info.plist */,
+			);
+			path = Hustler2.0Tests;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -179,6 +360,12 @@
 			mainGroup = 4A10D78A1AD8E30A00C7CB0B;
 			productRefGroup = 4A10D7941AD8E30A00C7CB0B /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = BB06263C1AD9B1F00031FEB8 /* Products */;
+					ProjectRef = BB06263B1AD9B1F00031FEB8 /* Hustler2.0.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				4A10D7921AD8E30A00C7CB0B /* MXHACKS */,
@@ -187,13 +374,39 @@
 		};
 /* End PBXProject section */
 
+/* Begin PBXReferenceProxy section */
+		BB06265E1AD9B1F00031FEB8 /* Hustler2.0.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = Hustler2.0.app;
+			remoteRef = BB06265D1AD9B1F00031FEB8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BB0626601AD9B1F00031FEB8 /* Hustler2.0Tests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Hustler2.0Tests.xctest;
+			remoteRef = BB06265F1AD9B1F00031FEB8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
 /* Begin PBXResourcesBuildPhase section */
 		4A10D7911AD8E30A00C7CB0B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB0626431AD9B1F00031FEB8 /* LaunchScreen.xib in Resources */,
+				BB0626531AD9B1F00031FEB8 /* splashBueno@2x.png in Resources */,
+				BB06264F1AD9B1F00031FEB8 /* Images.xcassets in Resources */,
+				BB0626501AD9B1F00031FEB8 /* Info.plist in Resources */,
+				BB0626551AD9B1F00031FEB8 /* splashBueno@2x.png in Resources */,
 				4A10D79E1AD8E30A00C7CB0B /* Main.storyboard in Resources */,
 				4A10D7A31AD8E30A00C7CB0B /* LaunchScreen.xib in Resources */,
+				BB0626441AD9B1F00031FEB8 /* Main.storyboard in Resources */,
+				BB06265A1AD9B1F00031FEB8 /* Info.plist in Resources */,
+				BB0626411AD9B1F00031FEB8 /* 1689265_512660492188520_1333736981_n.jpg in Resources */,
+				BB06264E1AD9B1F00031FEB8 /* Grupo-Modelo-300-logo.png in Resources */,
 				4A10D7A01AD8E30A00C7CB0B /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -212,8 +425,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB0626511AD9B1F00031FEB8 /* main.m in Sources */,
+				BB0626451AD9B1F00031FEB8 /* JWBlurView.m in Sources */,
+				BB06264B1AD9B1F00031FEB8 /* NZCircularImageView.m in Sources */,
 				4A10D79B1AD8E30A00C7CB0B /* ViewController.swift in Sources */,
+				BB0626571AD9B1F00031FEB8 /* WalletViewController.m in Sources */,
+				BB0626471AD9B1F00031FEB8 /* BEMCircle.m in Sources */,
 				4A10D7991AD8E30A00C7CB0B /* AppDelegate.swift in Sources */,
+				BB06264D1AD9B1F00031FEB8 /* GraphViewController.m in Sources */,
+				BB0626481AD9B1F00031FEB8 /* BEMLine.m in Sources */,
+				BB0626521AD9B1F00031FEB8 /* MyCustomCell1.m in Sources */,
+				BB06264A1AD9B1F00031FEB8 /* GraphViewController.m in Sources */,
+				BB0626561AD9B1F00031FEB8 /* ViewController.m in Sources */,
+				BB0626581AD9B1F00031FEB8 /* WalletViewController2.m in Sources */,
+				BB0626591AD9B1F00031FEB8 /* Hustler2_0Tests.m in Sources */,
+				BB0626461AD9B1F00031FEB8 /* BEMAnimations.m in Sources */,
+				BB0626491AD9B1F00031FEB8 /* BEMSimpleLineGraphView.m in Sources */,
+				BB0626541AD9B1F00031FEB8 /* SettingsViewController.m in Sources */,
+				BB0626421AD9B1F00031FEB8 /* AppDelegate.m in Sources */,
+				BB06264C1AD9B1F00031FEB8 /* CodeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +480,22 @@
 				4A10D7A21AD8E30A00C7CB0B /* Base */,
 			);
 			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		BB0626111AD9B1F00031FEB8 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BB0626121AD9B1F00031FEB8 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		BB0626131AD9B1F00031FEB8 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BB0626141AD9B1F00031FEB8 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -405,6 +651,7 @@
 				4A10D7B41AD8E30A00C7CB0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4A10D7B51AD8E30A00C7CB0B /* Build configuration list for PBXNativeTarget "MXHACKSTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +660,7 @@
 				4A10D7B71AD8E30A00C7CB0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
