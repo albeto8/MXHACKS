@@ -9,6 +9,7 @@
 #import "WalletViewController.h"
 
 @interface WalletViewController ()
+@property (strong, nonatomic) IBOutlet UILabel *Budget;
 
 @end
 
@@ -19,6 +20,7 @@
     // Do any additional setup after loading the view.
     self.tableView.dataSource = self;
     self.tableView.delegate =  self;
+    
 }
 
 - (void)didReceiveMemoryWarning {

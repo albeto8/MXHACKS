@@ -9,6 +9,7 @@
 #import "WalletViewController2.h"
 
 @interface WalletViewController2 ()
+@property (strong, nonatomic) IBOutlet UILabel *labelBudget;
 
 @end
 
@@ -19,6 +20,11 @@
     // Do any additional setup after loading the view.
     self.tableView.dataSource = self;
     self.tableView.delegate =  self;
+    
+    NSURL *url = [NSURL URLWithString:@"http://10.49.73.159:8888/hustler/public/wallet/1"];
+    NSData *data = [NSData dataWithContentsOfURL:url];
+    NSString *ret = [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];
+    NSLog(@"ret=%@", ret);
 }
 
 - (void)didReceiveMemoryWarning {
