@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A10D8051AD9C26700C7CB0B /* Emulator.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4A10D8041AD9C26700C7CB0B /* Emulator.ttf */; };
+		4ACBB9A01AD9E521002862CD /* setOff.png in Resources */ = {isa = PBXBuildFile; fileRef = 4ACBB99C1AD9E521002862CD /* setOff.png */; };
+		4ACBB9A11AD9E521002862CD /* stckOff.png in Resources */ = {isa = PBXBuildFile; fileRef = 4ACBB99D1AD9E521002862CD /* stckOff.png */; };
+		4ACBB9A21AD9E521002862CD /* wallOff.png in Resources */ = {isa = PBXBuildFile; fileRef = 4ACBB99E1AD9E521002862CD /* wallOff.png */; };
+		4ACBB9A31AD9E521002862CD /* walOff.png in Resources */ = {isa = PBXBuildFile; fileRef = 4ACBB99F1AD9E521002862CD /* walOff.png */; };
+		4ACBB9A51AD9E9D8002862CD /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 4ACBB9A41AD9E9D8002862CD /* bg.png */; };
+		4ACBB9A81AD9F4C1002862CD /* splashMov.png in Resources */ = {isa = PBXBuildFile; fileRef = 4ACBB9A61AD9F4C1002862CD /* splashMov.png */; };
+		4ACBB9A91AD9F4C1002862CD /* bgblanconegro.png in Resources */ = {isa = PBXBuildFile; fileRef = 4ACBB9A71AD9F4C1002862CD /* bgblanconegro.png */; };
 		BB0625B81AD9A4DA0031FEB8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0625B71AD9A4DA0031FEB8 /* main.m */; };
 		BB0625BB1AD9A4DA0031FEB8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0625BA1AD9A4DA0031FEB8 /* AppDelegate.m */; };
 		BB0625BE1AD9A4DA0031FEB8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0625BD1AD9A4DA0031FEB8 /* ViewController.m */; };
@@ -43,6 +51,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4A10D8041AD9C26700C7CB0B /* Emulator.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Emulator.ttf; sourceTree = "<group>"; };
+		4ACBB99C1AD9E521002862CD /* setOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = setOff.png; sourceTree = "<group>"; };
+		4ACBB99D1AD9E521002862CD /* stckOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stckOff.png; sourceTree = "<group>"; };
+		4ACBB99E1AD9E521002862CD /* wallOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wallOff.png; sourceTree = "<group>"; };
+		4ACBB99F1AD9E521002862CD /* walOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walOff.png; sourceTree = "<group>"; };
+		4ACBB9A41AD9E9D8002862CD /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
+		4ACBB9A61AD9F4C1002862CD /* splashMov.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splashMov.png; sourceTree = "<group>"; };
+		4ACBB9A71AD9F4C1002862CD /* bgblanconegro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bgblanconegro.png; sourceTree = "<group>"; };
 		BB0625B21AD9A4DA0031FEB8 /* Hustler2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hustler2.0.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB0625B61AD9A4DA0031FEB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BB0625B71AD9A4DA0031FEB8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -105,6 +121,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4A10D8031AD9C26700C7CB0B /* emulator */ = {
+			isa = PBXGroup;
+			children = (
+				4A10D8041AD9C26700C7CB0B /* Emulator.ttf */,
+			);
+			name = emulator;
+			path = ../emulator;
+			sourceTree = "<group>";
+		};
 		BB0625A91AD9A4DA0031FEB8 = {
 			isa = PBXGroup;
 			children = (
@@ -146,6 +171,13 @@
 				BB0625BD1AD9A4DA0031FEB8 /* ViewController.m */,
 				BB0625BF1AD9A4DA0031FEB8 /* Main.storyboard */,
 				BB0625C21AD9A4DB0031FEB8 /* Images.xcassets */,
+				4ACBB9A61AD9F4C1002862CD /* splashMov.png */,
+				4ACBB9A71AD9F4C1002862CD /* bgblanconegro.png */,
+				4ACBB9A41AD9E9D8002862CD /* bg.png */,
+				4ACBB99C1AD9E521002862CD /* setOff.png */,
+				4ACBB99D1AD9E521002862CD /* stckOff.png */,
+				4ACBB99E1AD9E521002862CD /* wallOff.png */,
+				4ACBB99F1AD9E521002862CD /* walOff.png */,
 				BB0625C41AD9A4DB0031FEB8 /* LaunchScreen.xib */,
 				BB0625DB1AD9A5B70031FEB8 /* cocoa */,
 				BB0625B51AD9A4DA0031FEB8 /* Supporting Files */,
@@ -156,6 +188,7 @@
 		BB0625B51AD9A4DA0031FEB8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4A10D8031AD9C26700C7CB0B /* emulator */,
 				BB0625B61AD9A4DA0031FEB8 /* Info.plist */,
 				BB0625B71AD9A4DA0031FEB8 /* main.m */,
 			);
@@ -298,11 +331,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB0625C11AD9A4DB0031FEB8 /* Main.storyboard in Resources */,
+				4ACBB9A81AD9F4C1002862CD /* splashMov.png in Resources */,
 				BB0625C61AD9A4DB0031FEB8 /* LaunchScreen.xib in Resources */,
+				4ACBB9A51AD9E9D8002862CD /* bg.png in Resources */,
 				BB06260A1AD9ADBE0031FEB8 /* Grupo-Modelo-300-logo.png in Resources */,
+				4ACBB9A21AD9E521002862CD /* wallOff.png in Resources */,
+				4ACBB9A01AD9E521002862CD /* setOff.png in Resources */,
+				4ACBB9A11AD9E521002862CD /* stckOff.png in Resources */,
 				BB0625C31AD9A4DB0031FEB8 /* Images.xcassets in Resources */,
+				4ACBB9A91AD9F4C1002862CD /* bgblanconegro.png in Resources */,
 				BB06260C1AD9ADC40031FEB8 /* 1689265_512660492188520_1333736981_n.jpg in Resources */,
 				BB0625F41AD9A5DF0031FEB8 /* splashBueno@2x.png in Resources */,
+				4A10D8051AD9C26700C7CB0B /* Emulator.ttf in Resources */,
+				4ACBB9A31AD9E521002862CD /* walOff.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -533,6 +574,7 @@
 				BB0625D71AD9A4DB0031FEB8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BB0625D81AD9A4DB0031FEB8 /* Build configuration list for PBXNativeTarget "Hustler2.0Tests" */ = {
 			isa = XCConfigurationList;
@@ -541,6 +583,7 @@
 				BB0625DA1AD9A4DB0031FEB8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
